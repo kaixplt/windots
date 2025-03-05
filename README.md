@@ -6,11 +6,11 @@ This repository contains my personal dotfiles, which include configurations for 
 
 - **Browser (Brave)**  
    Customizations for the Brave browser, including a personalized theme, toolbar, vertical tabs, and pinned sites.  
-   Detailed configuration and screenshots are included in the [Brave folder](./brave).
+   Detailed configuration and screenshots are included in the [Brave folder](./applications/brave).
 
 - **Windhawk**  
    Personalization of the Windows Start Menu using the Windhawk tool. This allows me to customize the appearance and behavior of the Start Menu for a better user experience.  
-   Configuration details can be found in the [Windhawk folder](./Windhawk).
+   Configuration details can be found in the [Windhawk folder](./applications/windhawk).
 
 - **Terminal**  
    Customizations for my terminal environment, including my `.zshrc` and other related configuration files to optimize my terminal usage.  
