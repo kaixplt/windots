@@ -1,0 +1,16 @@
+# Valid colors:
+# - hex (e.g., #ffffff for white)
+# - default (the default windows 11 border)
+# - accent (uses your system's accent color)
+# - rainbow (cycles through a smooth transition of colors)
+# - transparent (invisible border)
+# Invalid colors will be logged to %UserProfile%\.cuteborders\log.txt
+# and will default to red.
+hide_tray_icon: false
+rainbow_speed: 1.0
+window_rules:
+  - match: "Global"
+    active_border_color: "#8080c6"
+    inactive_border_color: "#8080c6"
+    # active_border_color: "accent"
+    # inactive_border_color: "transparent"
