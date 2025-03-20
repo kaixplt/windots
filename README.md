@@ -1,27 +1,42 @@
-# Dotfiles
+# 🌾 Windows 11 Catppuccin Mocha Rice  
 
-This repository contains my personal dotfiles, which include configurations for various applications and tools I use to enhance my workflow. These dotfiles are designed to help me maintain consistency across different environments and make my setup more efficient.
+### 🍵 My Personalized Windows Setup  
 
-## Included Configurations
+Welcome to my dotfiles repository! Here you'll find my personal configurations that enhance my Windows experience with a clean, minimal, and aesthetic look inspired by **Catppuccin Mocha**.  
 
-- **Browser (Brave)**  
-   Customizations for the Brave browser, including a personalized theme, toolbar, vertical tabs, and pinned sites.  
-   Detailed configuration and screenshots are included in the [Brave folder](./applications/brave).
+---
 
-- **Windhawk**  
-   Personalization of the Windows Start Menu using the Windhawk tool. This allows me to customize the appearance and behavior of the Start Menu for a better user experience.  
-   Configuration details can be found in the [Windhawk folder](./applications/windhawk).
+## ✨ Features  
 
-- **Terminal**  
-   Customizations for my terminal environment, including my `.zshrc` and other related configuration files to optimize my terminal usage.  
-   These are located in the [terminal folder](./shell).
+- **Elegant UI Customization:** Window borders, themes, and tweaks to refine the experience.  
+- **Efficient Workflow:** Tools and configurations to boost productivity.  
+- **Consistency Across Environments:** Easily replicable setup.  
 
-- **Git**  
-   My personal Git configuration file (`.gitconfig`) that includes settings for aliases, behavior, and default options.  
-   You can find this in the [git folder](./git).
+---
 
-## Notes
+## 🛠️ Configurations  
 
-- Feel free to use these configurations as a reference or adapt them to your needs.
-- Make sure to review the files carefully before using them, especially if you're replicating settings across different systems.
+### 🔹 UI Enhancements  
+- **📌 Topbar:** [Yasb](https://github.com/amnweb/yasb) with my custom [config](configs/yasb/)  
+- **🎨 Window Borders:** [Cute Borders](https://github.com/keifufu/cute-borders) → [config](configs/cuteborders/config.yaml)  
+- **🖼️ Wallpapers:** A collection from various sources → [Wallpapers](walls)  
+- **📂 Windhawk:** Customizations for Start Menu, Taskbar, and more → [config](configs/windhawk/)  
 
+### 🔹 Terminal & Productivity  
+- **🐱‍💻 Git:** My personal [Git config](configs/git/)  
+- **⚡ Fetch:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch) → [config](configs/fastfetch/)  
+- **🔎 Spotlight-Like Search:** [PowerToys Run](https://github.com/microsoft/PowerToys/releases)  
+- **💻 PowerShell Profile:** [Oh My Posh](https://ohmyposh.dev/) (ChrisTitusTech config) → [profile](https://github.com/ChrisTitusTech/powershell-profile)  
+
+### 🔹 Theming & Aesthetics  
+- **🟤 Brave Theme:** [Catppuccin Mocha Theme](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)  
+- **🌐 Website Themes:** Custom Stylus themes → [config](configs/stylus/stylus.json)  
+- **🎵 Spotify Theme:** [Spicetify](https://spicetify.app/) → Theme: `text` + CatppuccinMocha  
+- **🖥️ Other Apps Themes:** [Catppuccin Ports](https://catppuccin.com/ports)  
+
+---
+
+## 📌 Notes  
+> Feel free to explore, tweak, and adapt these configurations to fit your own workflow!  
+>  
+> **⚠️ Warning:** Review the files before applying them, especially on different systems.  
