@@ -6,6 +6,13 @@ Welcome to my dotfiles repository! Here you'll find my personal configurations t
 
 ---
 
+<br>
+
+![](assets/ss1.png)<br/><br/>
+![](assets/ss2.png)<br/><br/>
+![](assets/ss3.png)<br/><br/>
+
+
 ## ✨ Features  
 
 - **Elegant UI Customization:** Window borders, themes, and tweaks to refine the experience.  
