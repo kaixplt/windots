@@ -156,3 +156,15 @@ I wanna point out some resources and people that helped me the most with the set
 
 ## 📜 License
 Feel free to use and modify these dotfiles to suit your needs.
+
+
+## 🛠️ Utility Tools
+
+If you're looking to enhance and optimize your Windows experience, here are some useful tools that can help you achieve faster performance and greater efficiency:
+
+### 🔹 **Windows Explorer Performance Optimizer** (Created by me)
+
+- This tool optimizes the performance of your Windows Explorer, improving file navigation and system responsiveness.  
+Check out my [Windows Explorer Performance Optimizer](https://github.com/strakerbit/windows-explorer-optimizer) repository for more details and instructions on how to use it.
+
+---
