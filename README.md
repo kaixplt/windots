@@ -1,4 +1,4 @@
-# <center>🌾 Windows 11 Catppuccin Mocha Rice<center/>
+<h1 align="center"> 💫 Windows 11 Catppuccin Mocha Rice </h1>
 
 ### 🍵 My Personalized Windows Setup  
 
@@ -45,9 +45,8 @@ Welcome to my dotfiles repository! This repository contains my personalized conf
 
 --- 
 
-# <center>🔧 Setup Guide<center/>
+<h1 align="center">🔧 Setup Guide </h1>
 
-## 📌 Notes  
 > [!NOTE]  
 > These configurations are **personalized**. Some settings may need to be adjusted for your preferences.  
 > Feel free to explore, tweak, and adapt these configurations to fit your own workflow!  
