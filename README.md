@@ -88,6 +88,7 @@ Install [Windhawk](https://windhawk.net/)
   - Notification Center Styler
   - Start Menu Styler
   - Taskbar Styler
+  - Taskbar Tray Icon Spacing
 - Configure each mod under the "Advanced" tab using my settings from [windhawk configs](configs/windhawk/)
 
 
