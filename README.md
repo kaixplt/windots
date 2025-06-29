@@ -30,10 +30,9 @@ Welcome to my dotfiles repository! This repository contains my personalized conf
 - **📂 Windhawk:** Customizations for Start Menu, Taskbar, and more ([config](configs/windhawk/))  
 
 ### 🔹 Terminal & Productivity  
-- **🐱‍💻 Git:** My personal [Git config](configs/git/)  
 - **⚡ Fetch:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch) (Config: [fastfetch config](configs/fastfetch/))  
 - **🔎 Spotlight-Like Search:** [PowerToys Run](https://github.com/microsoft/PowerToys/releases)  
-- **💻 PowerShell Profile:** [Oh My Posh](https://ohmyposh.dev/) (ChrisTitusTech config)  
+- **💻 PowerShell Profile:** [Oh My Posh](https://ohmyposh.dev/) (ChrisTitusTech config)
 
 ### 🔹 Theming & Aesthetics  
 - **🟤 Brave Theme:** [Catppuccin Mocha Theme](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)  
@@ -93,7 +92,7 @@ Install [Windhawk](https://windhawk.net/)
 
 
 ## 6️⃣ Customize PowerShell with Oh My Posh
-- Use Oh My Posh with Chris Titus Tech’s profile:
+- Use Oh My Posh with Chris Titus Tech's profile:
     ```bash
     https://github.com/ChrisTitusTech/powershell-profile
     ```
@@ -158,13 +157,3 @@ I wanna point out some resources and people that helped me the most with the set
 Feel free to use and modify these dotfiles to suit your needs.
 
 
-## 🛠️ Utility Tools
-
-If you're looking to enhance and optimize your Windows experience, here are some useful tools that can help you achieve faster performance and greater efficiency:
-
-### 🔹 **Windows Explorer Performance Optimizer** (Created by me)
-
-- This tool optimizes the performance of your Windows Explorer, improving file navigation and system responsiveness.  
-Check out my [Windows Explorer Performance Optimizer](https://github.com/strakerbit/windows-explorer-optimizer) repository for more details and instructions on how to use it.
-
----
